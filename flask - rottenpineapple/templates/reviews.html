@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h3>{% block title %} Tenet Reviews {% endblock %}</h3>
+    <hr>
+    {% for post in posts %}
+        <p> {{ post['ID'] }} - {{ post['Review'] }} </p>
+        <span class="badge badge-primary" style="margin:auto; float:right; margin-top:-3%">{{ post['Prediction'] }}</span>
+        
+    {% endfor %}
+{% endblock %}

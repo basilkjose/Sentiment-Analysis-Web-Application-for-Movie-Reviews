@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block content %} 
+    <div class="row center" style="margin:auto; width: 50%;">
+      <div class="col-md-2">
+        <img height=100px src="{{linker}}" alt="">
+      </div>
+
+      <div class="col-md-6" style="margin:auto;">
+        <h3> Your review is {{value}}</h3>
+      </div>
+      <div class="col-md-4">
+        <!-- <form> -->
+          <form action ="thanks.html" method="POST">
+          <input type="hidden" id="ID" name="ID" value="{{ id }}">
+          <label for="movie-review">Prediction Right/Wrong?</label>
+                <input type="radio" id="male" name="option" value="correct">
+                      <label for="male">Correct</label><br>
+                <input type="radio" id="female" name="option" value="incorrect">
+                       <label for="female">Incorrect</label><br>
+          <button class="btn btn-primary" type="submit", value="submit" style="margin-top: 1%; padding: 1%; float:right;">Submit</button></a>
+        </form>
+      </form>
+      </div>
+    </div>
+{% endblock %}
