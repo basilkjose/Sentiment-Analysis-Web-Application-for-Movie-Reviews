@@ -50,3 +50,5 @@ This project is divided into two part:
 
 ## Deployement on Heroku
 [<img target="_blank" src="https://imgur.com/39Y8cOt.jpg" width=900>]
+For more information read this [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
