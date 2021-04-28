@@ -35,5 +35,6 @@ Imdb dataset is trained mainly on 3 machine learning models
 * Logistic Regression
 * Navie Bayes
 * Support Vector Machine
+
 we got maximum accuracy in the support vector machine, almost 89%.
 
