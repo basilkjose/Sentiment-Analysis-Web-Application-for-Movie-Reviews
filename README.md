@@ -12,6 +12,7 @@
   * [Technologies Used](#technologies-used)
 
 ## Demo
+Link: http://rottenpineapple.herokuapp.com/](http://rottenpineapple.herokuapp.com/)
 
 https://user-images.githubusercontent.com/37875797/116399793-ee0df000-a846-11eb-82ef-8cd667a13968.mp4
 
