@@ -80,7 +80,7 @@ For more information read this [Heroku Documentation](https://devcenter.heroku.c
 ```
 ## To Do
 * Train data using deep learning models.
-* Adding movies options in web app
+* Adding more movies options in web app
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
