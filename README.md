@@ -20,7 +20,7 @@ dataset to classify the review as positive or negative . The results should be r
 display the prediction as either positive or negative.All the movie reviews submitted by users should be stored in a SQLite database together with
 the prediction (if it was a positive or negative review).
 
-## Data_Preprocessing
+## data_Preprocessing
 Text preprocessing is traditionally an important step for natural language processing (NLP) tasks. It transforms text into a more digestible form so that machine learning algorithms can perform better.In this problem we done following types of preprocessing.
  * Removing all urls from data.
  * Removing all tags from data
