@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/37875797/116399793-ee0df000-a846-11eb-
 ## Overview
 This is a simple NLP flask model trained on the imdb dataset for movie sentiment analyzing.
 When a user submits a review the app should use the sklearn model trained on the IMDB
-dataset to classify the review as positive or negative . The results should be returned to the user  and the result should
+dataset to classify the review as positive or negative. The results should be returned to the user  and the result should
 display the prediction as either positive or negative.All the movie reviews submitted by users should be stored in a SQLite database together with
 the prediction (if it was a positive or negative review).
 
