@@ -76,7 +76,7 @@ For more information read this [Heroku Documentation](https://devcenter.heroku.c
 │   ├── __init__.py
 ├── Procfile
 ├── README.md
-└── model.pickle
+└── nlp_movie_dep.ipynb
 ```
 ## To Do
 * Train data using deep learning models.
