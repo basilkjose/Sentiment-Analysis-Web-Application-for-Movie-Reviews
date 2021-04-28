@@ -47,3 +47,6 @@ This project is divided into two part:
 * For training purposes, we use sklrean library.
 * For deployment, we use Flask and Heroku.
 * We also database for storing the input and prediction value
+
+## Deployement on Heroku
+[<img target="_blank" src="https://imgur.com/39Y8cOt.jpg" width=900>]
