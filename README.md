@@ -38,3 +38,12 @@ Imdb dataset is trained mainly on 3 machine learning models
 
 we got maximum accuracy in the support vector machine, almost 89%.
 
+## Technical Aspect
+This project is divided into two part:
+
+1) Training imdb dataset using machine learning models
+2) Deployement of model
+
+* For training purposes, we use sklrean library.
+* For deployment, we use Flask and Heroku.
+* We also database for storing the input and prediction value
