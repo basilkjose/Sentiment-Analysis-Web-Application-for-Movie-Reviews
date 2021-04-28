@@ -79,9 +79,7 @@ For more information read this [Heroku Documentation](https://devcenter.heroku.c
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-
- [<img target="_blank" src="https://imgur.com/Us8KPNs.jpg" width=200>](https://scikit-learn.org/)
+<img src="https://img.shields.io/badge/Machine Learning%20by-SKLEARN-blue.svg"/> 
  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Powered%20by-SKLEARN-blue.svg"/> 
