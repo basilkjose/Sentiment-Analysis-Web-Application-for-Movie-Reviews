@@ -54,7 +54,7 @@ This project is divided into two part:
 For more information read this [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree
-'''
+```
 ├── app 
 │   ├── __init__.py
 │   ├── app.py
@@ -71,4 +71,4 @@ For more information read this [Heroku Documentation](https://devcenter.heroku.c
 ├── Procfile
 ├── README.md
 └── model.pickle
-'''
+```
